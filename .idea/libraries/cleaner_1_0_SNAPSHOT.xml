@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cleaner-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/co/aikar/cleaner/1.0-SNAPSHOT/cleaner-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.16.5-754b578e">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/com/mohistmc/mohist/1.16.5-754b578e/mohist-1.16.5-754b578e-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/com/mohistmc/mohist/1.16.5-754b578e/mohist-1.16.5-754b578e-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
