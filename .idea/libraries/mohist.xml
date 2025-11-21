@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mohist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mohist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
